@@ -1,2 +1,2 @@
-# my-edith
+# my-jarvis
 My personal ai assistant 
